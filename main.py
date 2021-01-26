@@ -21,7 +21,7 @@ def input_parser(args):
         l4 = float(input().strip())
         print("敵のHPを入力してください：",end="")
         enemy_hp = float(input().strip())
-        print("=====入力完了=====")
+        print("=======入力完了=======")
     return (l1,l2,l3,l4,enemy_hp)
 
 
@@ -33,7 +33,7 @@ def calc_prob(args):
     print("　二撃目のダメージ（乱数1）：{:.4f}".format(l2))
     print("　三撃目のダメージ（乱数1）：{:.4f}".format(l3))
     print("　四撃目のダメージ（乱数1）：{:.4f}".format(l4))
-    print("　敵のHP　　　　　　　　：{:.4f}".format(enemy_hp))
+    print("　敵のHP：{:.4f}".format(enemy_hp))
     first = []
     
     second = []

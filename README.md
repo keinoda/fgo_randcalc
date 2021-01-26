@@ -50,7 +50,7 @@ user@user /fgo_randcalc % python3 main.py
 
 ### Usage3
 
-手元にPython環境がない場合，[Wandbox](https://wandbox.org/permlink/yRcgdmLUXMGTeQ4X)を用いて実行することができます．この場合，左側の`Runtime options:`のところにUsage1のようにそれぞれの数値をスペース区切りで列挙してください．
+手元にPython環境がない場合，[Wandbox](https://wandbox.org/permlink/zuRW0fpIjM4JU0Kh)を用いて実行することができます．この場合，左側の`Runtime options:`のところにUsage1のようにそれぞれの数値をスペース区切りで列挙してください．
 
 ## Licence
 
