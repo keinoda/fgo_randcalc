@@ -58,9 +58,9 @@ user@user /fgo_randcalc % python3 main.py
 
 手元にPython環境がない場合，[Wandbox](https://wandbox.org/permlink/t0wA34zB706iSHCT)を用いて実行することができます．この場合，左側の`Runtime options:`のところにUsage1のようにそれぞれの数値をスペース区切りで列挙してください．
 
-## Licence
+## License
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/keinoda/fgo_randcalc/blob/master/LICENSE)
 
 ## Author
 
